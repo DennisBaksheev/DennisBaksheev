@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dennis Baksheev</h1>
 <image align="right" alt="codin"g width="400" img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"> 
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Software Developer`**
 
 I'm a passionate computer programming student currently enrolled in the CPP program at Seneca College. Coding is my passion and I love learning about computer programming and software development. I enjoy working on personal programming projects and contributing to open-source software initiatives. My goal is to make a meaningful impact in the world of technology, and craft innovative and practical software solutions that solve real-world problems and improve people's lives. I aspire to work as a software developer in a fast-paced and dynamic environment where I can put my skills and knowledge to use in creating high-quality software products. 
 
