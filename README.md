@@ -10,7 +10,7 @@ I'm a passionate computer programming student currently enrolled in the CPP prog
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/Dennis Baksheev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dennis baksheev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dennis-baksheev-330861215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dennis baksheev" height="30" width="40" /></a>
 <a href="https://instagram.com/dennis_baksheev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dennis_baksheev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dbaksheev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dbaksheev" height="30" width="40" /></a>
 </p>
