@@ -19,9 +19,6 @@ I'm a passionate computer programming student currently enrolled in the CPA prog
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/?username=dennisbaksheev&show_icons=true&locale=en&layout=compact" alt="dennisbaksheev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennisbaksheev&show_icons=true&locale=en" alt="dennisbaksheev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennisbaksheev&" alt="dennisbaksheev" /></p>
 
 ---
 <details>
