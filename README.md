@@ -6,7 +6,7 @@
 
 **`Software Developer`**
 
-I'm a passionate computer programming student currently enrolled in the CPA program at Seneca College. Coding is my passion, and I enjoy working on personal programming projects. My goal is to make a meaningful impact in the technology world and craft innovative and practical software solutions that solve real-world problems and improve people's lives.
+I'm a passionate computer programming graduate with an Advanced Diploma in Computer Programming and Analysis from Seneca College. Coding has always been my passion, and I continue to work on personal programming projects. My goal is to make a meaningful impact in the technology world by crafting innovative and practical software solutions that solve real-world problems and improve people's lives.
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dennisbaksheev&label=Profile%20views&color=0e75b6&style=flat" alt="dennisbaksheev" />
