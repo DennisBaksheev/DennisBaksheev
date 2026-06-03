@@ -6,7 +6,7 @@
 
 **`Software Developer`**
 
-I'm a passionate computer programming graduate with an Advanced Diploma in Computer Programming and Analysis from Seneca College. Coding has always been my passion, and I continue to work on personal programming projects. My goal is to make a meaningful impact in the technology world by crafting innovative and practical software solutions that solve real-world problems and improve people's lives.
+I'm a passionate computer programming graduate with an Advanced Diploma in Computer Programming and Analysis from Seneca College. Coding has always been my passion, and I continue to work on personal programming projects. 
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dennisbaksheev&label=Profile%20views&color=0e75b6&style=flat" alt="dennisbaksheev" />
@@ -57,4 +57,4 @@ I'm a passionate computer programming graduate with an Advanced Diploma in Compu
 
 ## 👨‍💻 Dennis's Coding Journey
 
-I started my coding journey as a high school student. I discovered a passion for computer programming and enrolled in free online bootcamps to learn everything I could about this programming world - code, Unix, Linux, theory. I continued my education at Seneca College's Computer Programming and Analysis program, where I honed my technical skills and worked on real-world projects. In my free time, I also took on side projects, using my coding skills to solve problems and build innovative solutions. I am confident in my abilities and excited for what the future holds. With my education, experience, and passion for computer programming, I am ready to tackle the toughest challenges and build solutions that will change the world.
+I started my coding journey as a high school student. I discovered a passion for computer programming and enrolled in free online bootcamps to learn everything I could about this programming world - code, Unix, Linux, theory. I continued my education at Seneca College's Computer Programming and Analysis program, where I honed my technical skills and worked on real-world projects. In my free time, I also took on side projects, using my coding skills to solve problems and build innovative solutions. 
